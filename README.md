@@ -1,6 +1,6 @@
 # solidity-final
 
-**Project Title: META **
+**Project Title: META**
 
 **Simple Overview:**
 This Solidity contract provides a token system with minting and burning capabilities. It allows users to define token details, such as name, abbreviation, and initial supply. The contract tracks token balances using a mapping structure and includes functions to mint new tokens and burn existing tokens.
@@ -21,7 +21,7 @@ On the other hand, the burn function lets you remove tokens. By specifying the a
 **Help:**
 - If you encounter any issues, please ensure that you have a compatible Solidity compiler (version ^0.8.18) and a development environment properly set up.
 - Make sure to have sufficient gas funds to cover transaction costs when interacting with the contract.
-- Make sure the code is error free
+- Make sure the code is error free.
 
 **Command to Run:**
 There is no specific command to run the contract as it needs to be deployed and interacted with using a Solidity development environment or tool.
